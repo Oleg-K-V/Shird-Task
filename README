@@ -1,0 +1,1 @@
+Write a program that determines whether the correct structure of the bracket was introduced. Examples of proper bracket expressions: () (()) () () () (())), incorrect -) (()) (() ()))) ((()) .
